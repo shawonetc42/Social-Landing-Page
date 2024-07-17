@@ -22,7 +22,7 @@ const Update = () => {
             {/* title */}
             <div className="pt-10">
               <div className="flex flex-col justify-center items-center text-center mt-20 gap-2">
-                <h2 className="font-bold text-3xl mr-3">What's Update</h2>
+                <h2 className="font-bold text-3xl mr-3">Whats Update</h2>
                 <div className="w-14 h-2 rounded-lg bg-gradient-to-r from-[#B2EBF2] to-[#D1C4E9]"></div>
                 <p className="text-sm text-black my-5">
                   Vestibulum sit amet tortor sit amet libero lobortis semper at
